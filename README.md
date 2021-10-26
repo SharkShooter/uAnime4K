@@ -9,17 +9,15 @@ uAnime4K
 Examples
 --------
 
-![Bilinear](https://github.com/SharkShooter/uAnime4K/blob/master/Assets/f113/f113_Bilinear.png?raw=true)
+<img src="https://github.com/SharkShooter/uAnime4K/blob/master/Assets/f113/f113_Bilinear.png?raw=true" width=50% height=50%>
 
 (Bilinear)
 
-![Anime4K_A_HQ](https://github.com/SharkShooter/uAnime4K/blob/master/Assets/f113/f113_A_HQ.png?raw=true)
-![Anime4K_B_HQ](https://github.com/SharkShooter/uAnime4K/blob/master/Assets/f113/f113_B_HQ.png?raw=true)
+<img src="https://github.com/SharkShooter/uAnime4K/blob/master/Assets/f113/f113_A_HQ.png?raw=true" width=50% height=50%><img src="https://github.com/SharkShooter/uAnime4K/blob/master/Assets/f113/f113_B_HQ.png?raw=true" width=50% height=50%>
 
 (Left: Anime4K Mode A(HQ), Right: Anime4K Mode B(HQ))
 
-![Anime4K_A_Fast](https://github.com/SharkShooter/uAnime4K/blob/master/Assets/f113/f113_A_Fast.png?raw=true)
-![Anime4K_B_Fast](https://github.com/SharkShooter/uAnime4K/blob/master/Assets/f113/f113_A_Fast.png?raw=true)
+<img src="https://github.com/SharkShooter/uAnime4K/blob/master/Assets/f113/f113_A_Fast.png?raw=true" width=50% height=50%><img src="https://github.com/SharkShooter/uAnime4K/blob/master/Assets/f113/f113_B_Fast.png?raw=true" width=50% height=50%>
 
 (Left: Anime4K Mode A(Fast), Right: Anime4K Mode B(Fast))
 
